@@ -19,4 +19,4 @@ _第二部分为发送数据和接收数据；最后为选择模块功能函数�
 
 * 功能描述：发送模式应用函数，初始化发送模式RF，通过按下SW4向另一个模块发送控制命令。             
         
-主页 [github](https://github.com/chenwenshuo0308)
+*主页 [readme](https://github.com/chenwenshuo0308/libsimpeleRF/blob/main/README.md)

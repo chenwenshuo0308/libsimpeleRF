@@ -7,12 +7,16 @@ _第二部分为发送数据和接收数据；最后为选择模块功能函数�
          static void appRecive()           //灯应用处理函数    
            static void appSend();                  //开关应用处理函数
          static uint8 appSelectMode(void);         //应用功能选择函数
-*函数名称：appLight
+        
+函数名称：appRecive
 *
-*功能描述：接收模式应用函数，初始化RF一些参数，接收另一个模块发送的控制命令，然后控制相应的LED灯
+*  功能描述：接收模式应用函数，初始化RF一些参数，接收另一个模块发送的控制命令，然后控制相应的LED灯
            
 *               当发送模块按下SW4时，将发射一个控制命令，接收模块在接收到该命令后，将控制LDE1的亮或者灭。
 *
 *               其中LED6为工作指示灯，当工作不正常时，LED5将为亮状态。
+ 函数名称：appSend
+
+* 功能描述：发送模式应用函数，初始化发送模式RF，通过按下SW4向另一个模块发送控制命令。             
         
 主页 [github](https://github.com/chenwenshuo0308)

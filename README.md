@@ -14,8 +14,8 @@ _本实验主要分为3大部分，第一部分为初始化与RF相关的信息_
          
          static void appRecive()           //灯应用处理函数    
 
-   `static void appSend();                  //开关应用处理函数`
-  `  static uint8 appSelectMode(void);         //应用功能选择函数
+          `static void appSend();                  //开关应用处理函数`
+           `  static uint8 appSelectMode(void);         //应用功能选择函数
     `
       
 *

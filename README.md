@@ -34,7 +34,7 @@ extern uint8 halkeycmd(void);              //获取按键值函数
 | 接受 | 发送 | 切换模式 |
       
 *
-*           当发送模块按下SW4时，将发射一个控制命令，接收模块在接收到该命令后，将控制LDE1的亮或者灭。
+1.           当发送模块按下SW4时，将发射一个控制命令，接收模块在接收到该命令后，将控制LDE1的亮或者灭。
 *
-*           其中LED6为工作指示灯，当工作不正常时，LED5将为亮状态。
+2.           其中LED6为工作指示灯，当工作不正常时，LED5将为亮状态。
 * 笔记 [note](https://github.com/chenwenshuo0308/libsimpeleRF/blob/main/lib11(simple_RF)/lib11(simple_RF)/note.md)

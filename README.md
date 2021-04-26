@@ -23,4 +23,4 @@ _本实验主要分为3大部分，第一部分为初始化与RF相关的信息_
 *
 *               其中LED6为工作指示灯，当工作不正常时，LED5将为亮状态。
         
-GITHUB [github](https://github.com/)
+主页 [github](https://github.com/chenwenshuo0308)

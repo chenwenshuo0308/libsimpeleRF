@@ -13,10 +13,10 @@ _本实验主要分为3大部分，第一部分为初始化与RF相关的信息_
 >>             SW4 --- 发送模块发送命令按键
          
          static void appRecive()           //灯应用处理函数    
-         ``` C++
-          static void appSend();                  //开关应用处理函数
-          static uint8 appSelectMode(void);         //应用功能选择函数
-          ```
+
+   static void appSend();                  //开关应用处理函数
+    static uint8 appSelectMode(void);         //应用功能选择函数
+      
 *
 *               当发送模块按下SW4时，将发射一个控制命令，接收模块在接收到该命令后，将控制LDE1的亮或者灭。
 *

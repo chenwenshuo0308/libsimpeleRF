@@ -25,7 +25,8 @@ extern uint8 halkeycmd(void);              //获取按键值函数
 | appRecive | appSend | appSelectMode |
 | 接受 | 发送 | 切换模式 |
       
-
+![吉林大学](https://github.com/chenwenshuo0308/libsimpeleRF/blob/main/%E5%90%89%E5%A4%A7.jpg)
+CC2530 是用于2.4-GHzIEEE 802.15.4、ZigBee 和RF4CE 应用的一个真正的片上系统![cc2530](http://www.elecfans.com/uploads/allimg/171108/2749555-1G10P9345N44.png)
 1.      当发送模块按下SW4时，将发射一个控制命令，接收模块在接收到该命令后，将控制LDE1的亮或者灭。
 2.      其中LED6为工作指示灯，当工作不正常时，LED5将为亮状态。
 3.      在\include\文件和\source\文件中包含了和RF相关的一些宏和函数，用户使用这些宏和函数可以简化对CC2530的RF操作，提高代码的可读性，本实验中就使用了其中的一些宏和函数。

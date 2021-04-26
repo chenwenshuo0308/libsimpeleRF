@@ -3,7 +3,7 @@ c#
 ## simpleRF无线传感器网络调试串口通信 ##
 #### 本实验主要是学习怎么配置CC2530RF功能。 ####
 ![吉林大学](https://github.com/chenwenshuo0308/libsimpeleRF/blob/main/%E5%90%89%E5%A4%A7.jpg)
-<img src="https://news.jlu.edu.cn/__local/4/20/8C/42703A18EB7906D84EA69008ED1_C0A0F830_62528.jpg">
+![吉林大学杏花节](https://news.jlu.edu.cn/__local/4/20/8C/42703A18EB7906D84EA69008ED1_C0A0F830_62528.jpg)
 
 _第二部分为发送数据和接收数据；最后为选择模块功能函数。_
 *其中模块功能的选择是通过开发板上的按键来 选择的

@@ -3,7 +3,7 @@ c#
 ## simpleRF无线传感器网络调试串口通信 ##
 #### 本实验主要是学习怎么配置CC2530RF功能。 ####
 ![吉林大学]()
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+<img src="https://news.jlu.edu.cn/__local/9/A8/00/A8770D6337BEBE2351229789CCC_C66E2816_6D0CF.jpg" width="50%">
 
 _本实验主要分为3大部分，第一部分为初始化与RF相关的信息_
 

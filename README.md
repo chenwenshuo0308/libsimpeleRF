@@ -31,7 +31,7 @@ extern uint8 halkeycmd(void);              //获取按键值函数
 | 左对齐 | 右对齐 | 居中对齐 |
 | :-| -: | :-: |
 | appRecive | appSend | appSelectMode |
-| :-----| ----: | :----: |
+
 | 接受 | 发送 | 切换模式 |
       
 *

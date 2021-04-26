@@ -28,10 +28,10 @@ extern void ctrPCA9554FLASHLED(uint8 led); //IIC灯控制函数
 extern void ctrPCA9554LED(uint8 led,uint8 operation);
 extern uint8 halkeycmd(void);              //获取按键值函数
 ```
- |  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| appRecive | appSend | appSelectMode |
+| 接受 | 发送 | 切换模式 |
       
 *
 *           当发送模块按下SW4时，将发射一个控制命令，接收模块在接收到该命令后，将控制LDE1的亮或者灭。
